@@ -1,4 +1,4 @@
-## Author: 柏林
+
 
 > a template for H5 pages H5页面基础模板
 
